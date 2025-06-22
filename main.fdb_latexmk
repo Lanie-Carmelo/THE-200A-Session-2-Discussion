@@ -1,19 +1,21 @@
 # Fdb version 4
-["biber main"] 1749107094.68569 "main.bcf" "main.bbl" "main" 1749829562.37171 0
-  "main.bcf" 1749829562 133355 ab6ac98b8d81e3d5176f89f6662386d7 "pdflatex"
-  "references.bib" 1749108320 193 88e2923433e35a523655f4d54e8e7fee ""
+["biber main"] 1750560182.98487 "main.bcf" "main.bbl" "main" 1750560189.6229 0
+  "main.bcf" 1750560189 134940 21b759a938a75ede0e67dc1f52d752ad "pdflatex"
+  "references.bib" 1750492804 1035 04bbf2f51608b1b11b768384119a0a9b ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1749829560.32122 "c:/Users/LanieMolinarCarmelo/OneDrive - Life of a Rare Bird/Documents/Colorado Christian University/APA_7_Student_Paper_Template/main.tex" "main.pdf" "main" 1749829562.37275 0
+["pdflatex"] 1750560187.4524 "c:/Users/LanieMolinarCarmelo/OneDrive - Life of a Rare Bird/Documents/Colorado Christian University/Introduction to Systematic Theology (THE-200A)/session_2_discussion/main.tex" "main.pdf" "main" 1750560189.62381 0
   "C:/Program Files/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf.enc" 1736607166 2914 fdbc4a54b9bc76f4551b5303f2737d33 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/lm/ec-lmr12.tfm" 1256929440 12092 7b1546e2d096cfd5dcbd4049b0b1ec2e ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/newtx/ntx-Bold-tlf-t1.tfm" 1736607165 11564 696f16cb350c2e296a6df5198a20c96a ""
+  "C:/Program Files/MiKTeX/fonts/tfm/public/newtx/ntx-BoldItalic-tlf-t1.tfm" 1736607166 11628 32b3d352a773e581502caf73dbbdaeb2 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/newtx/ntx-Italic-tlf-t1.tfm" 1736607165 11524 8ba2f557ba7dc63d1e9e4c8cc65c9b60 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/newtx/ntx-Regular-tlf-t1.tfm" 1736607165 11580 86fb9f1fbe830bcc3e5ca9d9fb704e6b ""
   "C:/Program Files/MiKTeX/fonts/type1/public/newtx/ztmb.pfb" 1736607166 255251 ff86dd5a515ecd222fc60cb2612549c9 ""
+  "C:/Program Files/MiKTeX/fonts/type1/public/newtx/ztmbi.pfb" 1736607166 260277 427b4b61566a04f0c6d82fd1c334d0b3 ""
   "C:/Program Files/MiKTeX/fonts/type1/public/newtx/ztmr.pfb" 1736607166 286816 c3d030d8c7fd436565d9670f5ca64aa0 ""
   "C:/Program Files/MiKTeX/fonts/type1/public/newtx/ztmri.pfb" 1736607166 248316 ea891a047af89fa529ebd24643780319 ""
   "C:/Program Files/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -198,12 +200,12 @@
   "C:/Program Files/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
   "C:/Users/LanieMolinarCarmelo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1749091709 163207 8b397a28da8cf491d72adf658ad1aa93 ""
   "C:/Users/LanieMolinarCarmelo/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1749091852 13149299 e155e44ad4f444f5e8f7d68751bae5b9 ""
-  "c:/Users/LanieMolinarCarmelo/OneDrive - Life of a Rare Bird/Documents/Colorado Christian University/APA_7_Student_Paper_Template/main.tex" 1749829559 1093 bdbb1a08adcc4e147f02a8594a31294f ""
-  "main.aux" 1749829562 731 b6540cc2df4f163a34ac262cd1a158f3 "pdflatex"
-  "main.bbl" 1749107097 3317 559f3971ff693ed9bab4a011b39d83eb "biber main"
-  "main.out" 1749829562 122 5753b21968e83dd8879c63614249d1e1 "pdflatex"
-  "main.run.xml" 1749829562 2427 1cb2222298133837dc7949fc0988b415 "pdflatex"
-  "main.tex" 1749829559 1093 bdbb1a08adcc4e147f02a8594a31294f ""
+  "c:/Users/LanieMolinarCarmelo/OneDrive - Life of a Rare Bird/Documents/Colorado Christian University/Introduction to Systematic Theology (THE-200A)/session_2_discussion/main.tex" 1750560180 14074 805c91f7115fdfc6154c514d366d5e27 ""
+  "main.aux" 1750560189 4721 def3f59d8877c4cc5b6497bed3137cdf "pdflatex"
+  "main.bbl" 1750560185 7433 1c87cbcb8304ecc53c534deff1261db4 "biber main"
+  "main.out" 1750560189 2058 1e7ba0417b9b84717042dfc22dc2aad3 "pdflatex"
+  "main.run.xml" 1750560189 2427 1cb2222298133837dc7949fc0988b415 "pdflatex"
+  "main.tex" 1750560180 14074 805c91f7115fdfc6154c514d366d5e27 ""
   (generated)
   "main.aux"
   "main.bcf"

@@ -1,1 +1,2 @@
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Qamerican american-apa\\E$"}
+{"rule":"ALL_OF_THE","sentence":"^\\QAs Hebrews 4:15 reminds us, “For This High Priest of ours understands our weaknesses, for he faced all of the same testings we do, yet he did not sin.”\\E$"}
